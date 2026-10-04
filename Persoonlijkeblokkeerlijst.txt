@@ -1,8 +1,4 @@
 ! Persoonlijke blokkeerlijst
-||youtube.com
-||youtube-ui.l.google.com
-||ytimg.l.google.com
-||m.youtube.com
 ||msn.com
 ||poki.com
 ||playgama.com
