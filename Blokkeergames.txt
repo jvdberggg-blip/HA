@@ -1,4 +1,5 @@
 ! Persoonlijke blokkeerlijst games
-||msn.com
+||zone.msn.com
+||player.zone.msn.com
 ||poki.com
 ||playgama.com
